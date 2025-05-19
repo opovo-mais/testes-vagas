@@ -43,6 +43,5 @@ O app deverá ser desenvolvido para a plataforma **Android ou iOS**
 ### Processo de submissão
 - O link do repositóro deve ser enviado para os e-mails: 
     - brendacamara@opovodigital.com
-    - mariafernandes@opovodigital.com
 
 ## Boa sorte!
