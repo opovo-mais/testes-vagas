@@ -18,6 +18,11 @@ O candidato deverá desenvolver uma Landing Page responsiva para exibir informa�
 - Criar uma API em PHP que forneça os dados dos cursos em formato JSON.
 - Consumir essa API no React para exibir os cursos dinamicamente.
 
+## Materiais
+
+Layout do site (Versões Desk, Tablet e Mobile)<br />
+Layout do Teste: 
+
 ## Integração
 
 - O React deve consumir a API via fetch/axios e exibir os cursos na Landing Page.
@@ -26,15 +31,21 @@ O candidato deverá desenvolver uma Landing Page responsiva para exibir informa�
 
 - Usar integração de IA (exemplo: ChatGPT para melhorar descrições ou IA de imagem para gerar banners).
 
-## Entrega via Git
-
-- Criar repositório público no GitHub ou GitLab.
-- Estrutura recomendada: /frontend, /backend, /docs, README.md.
-
 ## Critérios de Avaliação
 
-- Documentação (20%) – README explicando instalação, execução e decisões técnicas.
-- Código limpo e boas práticas (30%) – organização, legibilidade e manutenibilidade.
-- Responsividade (20%) – experiência fluida em diferentes dispositivos.
-- Coerência (20%) – atender aos requisitos solicitados.
-- Bônus IA (10%) – integração criativa e funcional.
+- Documentação – README explicando instalação, execução e decisões técnicas.
+- Código limpo e boas práticas – organização, legibilidade e manutenibilidade.
+- Responsividade – experiência fluida em diferentes dispositivos.
+- Coerência – atender aos requisitos solicitados.
+- Bônus IA – integração criativa e funcional.
+
+## Processo de Submissão
+
+O teste deve ser versionado e disponibilizado no GitHub do candidado.<br />
+
+- Estrutura recomendada: /frontend, /backend, /docs, README.md.
+
+Enviar o link para: caiosousa@opovodigital.com<br />
+
+Boa sorte a todos e<br />
+Bom trabalho!!
