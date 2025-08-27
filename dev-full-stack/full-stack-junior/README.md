@@ -7,13 +7,13 @@ O candidato deverá desenvolver uma Landing Page responsiva para exibir informa�
 
 ## Requisitos
 
-## Front-end (React – nível 3/5)
+### Front-end (React – nível 3/5)
 
   - Criar uma Landing Page em React utilizando componentização.
   - Deve conter: menu de navegação, banner principal, listagem de cursos (dados da API), sessão de destaques, rodapé.
   - Responsividade obrigatória (desktop, tablet e mobile).
 
-## Back-end (PHP – nível 3/5)
+### Back-end (PHP – nível 3/5)
 
 - Criar uma API em PHP que forneça os dados dos cursos em formato JSON.
 - Consumir essa API no React para exibir os cursos dinamicamente.
