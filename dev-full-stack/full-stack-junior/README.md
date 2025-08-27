@@ -1,5 +1,5 @@
-# Teste Prático FullStack Júnior O POVO
-Este repositório foi criado com intuito de disponibilizar os pré-requisitos e o teste prático para se tornar um Desenvolvedor FullStack Júnior do Grupo de Comunicação O POVO   
+# Teste Prático FullStack Júnior
+Este repositório foi criado com intuito de disponibilizar os pré-requisitos e o teste prático para se tornar um Desenvolvedor FullStack Júnior do Grupo de Comunicação O POVO.  
 
 ## Introdução
 
