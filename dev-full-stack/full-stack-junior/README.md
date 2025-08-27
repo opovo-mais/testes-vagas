@@ -20,7 +20,6 @@ O candidato deverá desenvolver uma Landing Page responsiva para exibir informa�
 
 ## Materiais
 
-Layout do site (Versões Desk, Tablet e Mobile)<br />
 Layout do Teste: 
 
 ## Integração
