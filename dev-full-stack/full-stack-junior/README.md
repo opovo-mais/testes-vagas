@@ -20,7 +20,7 @@ O candidato deverá desenvolver uma Landing Page responsiva para exibir informa�
 
 ## Materiais
 
-Layout do Teste: 
+Layout do Teste: https://www.figma.com/design/KiiCJ15eaA38hWymn9vbZT/Teste-Full-Stack?node-id=0-1&t=cHPecac3vTW1aVli-1
 
 ## Integração
 
